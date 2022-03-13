@@ -1,7 +1,8 @@
 # Nazwa Projektu
 
 
-## This project is simple Lorem ipsum dolor generator.
+## Code Examples
+To generate lorem ipsum use special shortcode: `put-your-code-here`
 
 ## Table of contents
 * [General info](#general-info)
