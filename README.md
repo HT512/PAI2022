@@ -1,2 +1,5 @@
 # Nazwa Projektu
 
+
+## General info
+
